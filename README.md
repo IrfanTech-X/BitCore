@@ -28,15 +28,14 @@ The project was developed for academic purposes to help students understand how 
 
 ## 🛠️ Technologies Used
 
-| Tool / Technology | Purpose                                     |
-|-------------------|---------------------------------------------|
-| Java              | Programming language                        |
-| NetBeans / IntelliJ | Java IDE for development and testing     |
-| Command Line      | Console-based user interaction              |
-| OOP               | Modular structure (`ALU.java`, `Utils.java`)|
+| Tool / Technology    | Purpose                                     |
+|---------------------|---------------------------------------------|
+| Java                | Programming language                        |
+| NetBeans / IntelliJ | Java IDE for development and testing       |
+| Swing / JavaFX      | GUI framework for graphical user interface |
+| OOP                 | Modular structure (`ALU.java`, `Utils.java`)|
 
 ---
-
 ## 📁 Project Structure
 
 BitCore/
