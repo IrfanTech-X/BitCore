@@ -1,8 +1,8 @@
 # 🧠 BitCore – Binary Arithmetic Logic Unit Simulator
 
 > A minimal ALU (Arithmetic Logic Unit) simulation written in Java  
-> Developed for the **Computer Architecture Lab**  
-> Green University of Bangladesh
+> Developed for the **Computer Architecture Course**  
+
 
 ---
 
@@ -87,12 +87,18 @@ Learn about low-level computation in a high-level language
 
 Apply OOP concepts to structure logic-based projects
 
-👨‍💻 Author
-Irfan Ferdous Siam
-BSc in CSE, Green University of Bangladesh
-📧 Email: siamtalukdar3@gmail.com
-🔗 LinkedIn: linkedin.com/in/irfan-ferdous-siam
-💻 GitHub: github.com/IrfanTech-X
+---
 
-📃 License
+## 👨‍💻 Author
+
+**Irfan Ferdous Siam**  
+BSc in CSE, Green University of Bangladesh  
+📧 Email: [siamtalukdar3@gmail.com](mailto:siamtalukdar3@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/irfan-ferdous-siam](https://linkedin.com/in/irfan-ferdous-siam)  
+💻 GitHub: [github.com/IrfanTech-X](https://github.com/IrfanTech-X)
+
+---
+
+## 📃 License
+
 This project is licensed under the MIT License — feel free to use, modify, and distribute it for educational purposes.
