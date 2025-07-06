@@ -70,22 +70,21 @@ Follow the on-screen instructions in the terminal.
 
 
 📌 Limitations
-Supports only 8-bit binary numbers in current version
+- Supports only 8-bit binary numbers in current version  
+- Signed binary and 2’s complement not yet implemented  
+- GUI implemented for easier interaction  
 
-Signed binary and 2’s complement not yet implemented
-
-CLI-based only (no GUI)
 
 🎯 Learning Objectives
-Simulate ALU operations using binary inputs
+- Simulate ALU operations using binary inputs
 
-Understand binary arithmetic and bitwise logic
+- Understand binary arithmetic and bitwise logic
 
-Practice input validation and string parsing in Java
+- Practice input validation and string parsing in Java
 
-Learn about low-level computation in a high-level language
+- Learn about low-level computation in a high-level language
 
-Apply OOP concepts to structure logic-based projects
+- Apply OOP concepts to structure logic-based projects
 
 ---
 
